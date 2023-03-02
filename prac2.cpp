@@ -18,7 +18,7 @@ public:
         polic::del = del;
     }
 
-    int getNum() const {      //возвращаем номер полиса
+    int getNum() const {    
         return num;
     }
     void setNum(int num) {       // устанавливает номер полиса
